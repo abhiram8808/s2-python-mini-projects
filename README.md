@@ -1,2 +1,3 @@
 # s2-python-mini-projects
-student marks analyzer
+Python mini projects done in S2
+
